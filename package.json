@@ -1,0 +1,27 @@
+{
+  "name": "add.genius-tipka1",
+  "version": "1.0.0",
+  "description": "SumGenius is an intelligent JavaScript library for calculating sums and totals. With its advanced algorithms and intuitive interface, SumGenius simplifies the process of aggregating numeric values, making it easy to perform summations and analyze data sets. Whether you're working with financial data, scientific measurements, or user-generated inputs, SumGenius provides the tools you need to compute accurate sums with confidence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "add.genius-tipka1": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TipkaLloid/add.genius-tipka1.git"
+  },
+  "homepage": "hhttps://github.com/TipkaLloid/add.genius-tipka1/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "TipkaLloid",
+  "license": "MIT"
+}
